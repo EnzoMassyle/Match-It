@@ -14,9 +14,9 @@ Project is a memory based learning application which helps users with memory-bas
 </p>
 <h2>Tools/Languages Used</h2>
 
-- <b>Python Django (backend):</b> scikit-learn ML model 
-- <b>[Node.JS (backend):](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964)</b> control data flow between all components
-- <b>[React (frontend):](https://github.com/joshmadakor1/C964-WGU-BSCS-Capstone-React)</b> single page application (SPA)
+- <b>C# (backend):</b> control game flow
+- <b> [Google sheets (backend):]</b> control the content that will be displayed in the application
+- <b>[Unity(frontend):] GUI
 
 <h2>Environments Used (PaaS Components)</h2>
 
