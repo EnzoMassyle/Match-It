@@ -3,16 +3,9 @@
 
  ### [Live Demonstration: ] https://youtu.be/Yt4tEc02FB0
 
-<h2>
- 
-```diff
-- WARNING (NSFW): RANDOM live images will be pulled from NSFW location.
-```
- 
- </h2>
 
 <h2>Description</h2>
-Project consists of a single-page application (SPA) which grabs a random image from 4chan, runs the image through the analysis pipeline and displays the results. The results contain the image classifications retrieved from Azure Cognitive Services Computer Vision as well as the final decision (SFW or NSFW) from my trained ML model, given the Computer Vision classifications. The web application blurs the image upon initial display but allows you to un-blur it by clicking.
+Project is a memory based learning application which helps users with memory-based learning practices. Content of application is gathered through the use of google spreadsheets which is then fetched and processed. The application is meant to be flexible so users and learn anything they desire. 
 <br />
 <br />
 
