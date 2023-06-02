@@ -12,6 +12,10 @@ Project is a memory based learning application which helps users with memory-bas
 <p align="center">
 <img src="https://i.imgur.com/PseMV82.png" height="65%" width="65%" alt="Match It home screen"/>
 </p>
+
+<p align="center">
+<img src="https://i.imgur.com/uEz6ieV.png" height="65%" width="65%" alt="Match It game screen"/>
+</p>
 <h2>Tools/Languages Used</h2>
 
 - <b>C# (backend):</b> control game flow
