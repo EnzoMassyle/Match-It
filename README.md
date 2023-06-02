@@ -20,7 +20,7 @@ Project is a memory based learning application which helps users with memory-bas
 
 - <b>C# (backend):</b> control game flow
 - <b> Google sheets (backend):</b> control the content that will be displayed in the application
-- <b>Unity(frontend): GUI
+- <b>Unity (frontend): GUI
 
 <h2>Image Analysis Data Flow</h2>
 
