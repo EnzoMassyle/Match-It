@@ -15,15 +15,8 @@ Project is a memory based learning application which helps users with memory-bas
 <h2>Tools/Languages Used</h2>
 
 - <b>C# (backend):</b> control game flow
-- <b> [Google sheets (backend):]</b> control the content that will be displayed in the application
-- <b>[Unity(frontend):] GUI
-
-<h2>Environments Used (PaaS Components)</h2>
-
-- <b>Azure App Service:</b> hosting Node.JS and Django components
-- <b>Azure Storage Account:</b> running React Static Page
-- <b>Azure Cosmos DB:</b> Storage SFW/NSFW analytics and historical data
-- <b>Azure Cognitive Services:</b> Used to general data used for SFW/NSFW decision
+- <b> Google sheets (backend):</b> control the content that will be displayed in the application
+- <b>Unity(frontend): GUI
 
 <h2>Image Analysis Data Flow</h2>
 
