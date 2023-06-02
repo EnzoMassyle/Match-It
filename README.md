@@ -10,7 +10,7 @@ Project is a memory based learning application which helps users with memory-bas
 <br />
 
 <p align="center">
-<img src="https://i.imgur.com/PseMV82.png" height="65%" width="65%" alt="Home screen"/>
+<img src="https://i.imgur.com/PseMV82.png" height="65%" width="65%" alt="Match It home screen"/>
 </p>
 <h2>Tools/Languages Used</h2>
 
@@ -21,7 +21,7 @@ Project is a memory based learning application which helps users with memory-bas
 <h2>Image Analysis Data Flow</h2>
 
 <p align="center">
-<img src="https://i.imgur.com/UeNTKzL.png" height="65%" width="65%" alt="Image Analysis Dataflow"/>
+<img src="https://i.imgur.com/GKhUL7u.png" height="65%" width="65%" alt="Match It game flow"/>
 </p>
 
 <!--
