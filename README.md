@@ -10,7 +10,7 @@ Project is a memory based learning application which helps users with memory-bas
 <br />
 
 <p align="center">
-<img src="(https://imgur.com/a/ajjUQhK)" height="65%" width="65%" alt="Home screen"/>
+<img src="https://imgur.com/a/ajjUQhK.png" height="65%" width="65%" alt="Home screen"/>
 </p>
 <h2>Languages Used</h2>
 
