@@ -22,7 +22,7 @@ Project is a memory based learning application which helps users with memory-bas
 - <b> Google sheets (backend):</b> control the content that will be displayed in the application
 - <b>Unity (frontend): GUI
 
-<h2>Image Analysis Data Flow</h2>
+<h2>Game flow</h2>
 
 <p align="center">
 <img src="https://i.imgur.com/GKhUL7u.png" height="65%" width="65%" alt="Match It game flow"/>
