@@ -9,13 +9,34 @@ Project is a memory based learning application which helps users with memory-bas
 <br />
 <br />
 
+## Program Walk Through
 <p align="center">
-<img src="https://i.imgur.com/PseMV82.png" height="65%" width="65%" alt="Match It home screen"/>
+Launch Application: <br />
+<img src="https://i.imgur.com/9YOjMaH.png" height="65%" width="65%" alt="Match It home screen"/>
 </p>
 
 <p align="center">
-<img src="https://i.imgur.com/uEz6ieV.png" height="65%" width="65%" alt="Match It game screen"/>
+Acquire Main Spreadsheet ID: <br />
+<img src="https://i.imgur.com/NmS7pDD.png" height="65%" width="65%" alt="Google Spreadsheet ID"/>
 </p>
+
+<p align="center">
+Format Content SpreadSheets as Follows: <br />
+<img src="https://i.imgur.com/qKRL8vV.png" height="65%" width="65%" alt="Google Spreadsheet ID"/>
+
+<p align="center">
+Select Dataset: <br />
+<img src="https://i.imgur.com/L7r0SaC.png" height="65%" width="65%" alt="Selecting Animals Dataset"/>
+</p>
+<p align="center">
+Play and Learn! <br />
+<img src="https://i.imgur.com/NVoGCpB.png" height="65%" width="65%" alt="Playing Game with Animals Dataset"/>
+</p>
+ 
+
+ 
+ 
+ 
 <h2>Tools/Languages Used</h2>
 
 - <b>C# (backend):</b> control game flow
