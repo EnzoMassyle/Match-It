@@ -21,7 +21,7 @@ Acquire Main Spreadsheet ID: <br />
 </p>
 
 <p align="center">
-Format Content SpreadSheets as Follows: <br />
+Format Content Spreadsheets as Follows: <br />
 <img src="https://i.imgur.com/qKRL8vV.png" height="65%" width="65%" alt="Google Spreadsheet ID"/>
 
 <p align="center">
