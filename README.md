@@ -25,7 +25,7 @@ Format Content Spreadsheets as Follows: <br />
 <img src="https://i.imgur.com/qKRL8vV.png" height="65%" width="65%" alt="Google Spreadsheet ID"/>
 
 <p align="center">
-Select Data set: <br />
+Select Data Set: <br />
 <img src="https://i.imgur.com/L7r0SaC.png" height="65%" width="65%" alt="Selecting Animals Data set"/>
 </p>
 <p align="center">
